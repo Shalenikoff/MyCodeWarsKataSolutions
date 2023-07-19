@@ -19,7 +19,7 @@ Rank of my profile
   - [Squaring the argument](SquaringArgument.swift)
   - [Reserved Sequences](ReservedSequence.swift)
   - [Even or Odd](EvenOrOdd.swift)
-  - [Summ of Goals]()
+  - [Summ of Goals](SummOfGoals.swift)
 
 ---
 
