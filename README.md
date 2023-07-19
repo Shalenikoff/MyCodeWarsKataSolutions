@@ -1,8 +1,8 @@
 # My Codewars Kata Solutions
 Hi,collegue! 
-I,m the beginner swift developer! You can see my [codewars](https://www.codewars.com/users/Shalenikoff) kata solutions 
+I'm the junior swift developer! You can see my [codewars](https://www.codewars.com/users/Shalenikoff) kata solutions 
 
-Rank of my profile
+Actual rank of my profile
 
 ![Badge](https://www.codewars.com/users/Shalenikoff/badges/large?theme=light)
 
