@@ -6,6 +6,9 @@ Rank of my profile
 
 ![Badge](https://www.codewars.com/users/Shalenikoff/badges/large?theme=light)
 
+**[Completed solutions](https://www.codewars.com/users/Shalenikoff/completed_solutions)**
+
+
 ### Swift
 
 ---
