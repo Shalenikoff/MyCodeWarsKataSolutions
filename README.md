@@ -1,4 +1,4 @@
-# MyCodeWarsKataSolutions
+# My Codewars Kata Solutions
 Hi,collegue! 
 I,m the beginner swift developer! You can see my [codewars](https://www.codewars.com/users/Shalenikoff) kata solutions 
 
@@ -12,5 +12,6 @@ Rank of my profile
   - [Check the for factor](CheckForFactor.swift)
   - [Grades](GradeBook.swift)
   - [Squaring the argument](SquaringArgument.swift)
+  - [Reserved Sequences]()
 
 
