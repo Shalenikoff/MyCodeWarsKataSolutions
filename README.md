@@ -6,5 +6,8 @@ Rank of my profile
 
 ![Badge](https://www.codewars.com/users/Shalenikoff/badges/large?theme=light)
 
+### Swift
+– 8 kuy
+  - [ReturnStrings]()
 
 
