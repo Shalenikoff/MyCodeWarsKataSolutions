@@ -10,5 +10,6 @@ Rank of my profile
 – 8 kuy
   - [ReturnStrings](ReturningStrings.swift)
   - [CheckForFactor](CheckForFactor.swift)
+  - [GradeBook](GradeBook.swift)
 
 
