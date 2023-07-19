@@ -21,6 +21,7 @@ Actual rank of my profile
   - [Even or Odd](EvenOrOdd.swift)
   - [Summ of Goals](SummOfGoals.swift)
   - [Personalized Message](PersonalizedMessage.swift)
+  - [Calculating BMI](CalculateBMI.swift)
 
 ---
 
