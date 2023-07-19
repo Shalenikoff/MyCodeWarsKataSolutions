@@ -18,6 +18,7 @@ Rank of my profile
   - [Grades](GradeBook.swift)
   - [Squaring the argument](SquaringArgument.swift)
   - [Reserved Sequences](ReservedSequence.swift)
+  - [Even or Odd](EvenOrOdd.swift)
 
 ---
 
