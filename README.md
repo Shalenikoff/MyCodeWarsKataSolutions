@@ -20,6 +20,7 @@ Rank of my profile
   - [Reserved Sequences](ReservedSequence.swift)
   - [Even or Odd](EvenOrOdd.swift)
   - [Summ of Goals](SummOfGoals.swift)
+  - [Personalized Message]()
 
 ---
 
