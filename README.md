@@ -8,6 +8,7 @@ Rank of my profile
 
 ### Swift
 – 8 kuy
-  - [ReturnStrings]()
+  - [ReturnStrings](ReturningStrings.swift)
+  - [CheckForFactor](CheckForFactor.swift)
 
 
