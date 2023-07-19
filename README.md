@@ -8,8 +8,9 @@ Rank of my profile
 
 ### Swift
 – 8 kuy
-  - [ReturnStrings](ReturningStrings.swift)
-  - [CheckForFactor](CheckForFactor.swift)
-  - [GradeBook](GradeBook.swift)
+  - [Return string](ReturningStrings.swift)
+  - [Check the for factor](CheckForFactor.swift)
+  - [Grades](GradeBook.swift)
+  - [Squaring the argument](SquaringArgument.swift)
 
 
