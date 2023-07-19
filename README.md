@@ -7,11 +7,15 @@ Rank of my profile
 ![Badge](https://www.codewars.com/users/Shalenikoff/badges/large?theme=light)
 
 ### Swift
+
+---
 – 8 kuy
   - [Return string](ReturningStrings.swift)
   - [Check the for factor](CheckForFactor.swift)
   - [Grades](GradeBook.swift)
   - [Squaring the argument](SquaringArgument.swift)
-  - [Reserved Sequences]()
+  - [Reserved Sequences](ReservedSequence.swift)
+
+---
 
 
