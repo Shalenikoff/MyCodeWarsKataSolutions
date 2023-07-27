@@ -25,5 +25,6 @@ Actual rank of my profile
   - [Expressions Matter](ExpressionsMatter.swift)
 
 ---
-
+– 7 kuy
+  - [Doubled Array]()
 
