@@ -23,7 +23,7 @@ Actual rank of my profile
   - [Personalized Message](PersonalizedMessage.swift)
   - [Calculating BMI](CalculateBMI.swift)
   - [Expressions Matter](ExpressionsMatter.swift)
-  - [Simple multiplications](SimpleMultiplications.swift)
+  - [Simple multiplications](SimpleMultiplication.swift)
 
 ---
 – 7 kuy
